@@ -1,0 +1,6 @@
+framework module Pods_FFCellsKit_Example {
+  umbrella header "Pods-FFCellsKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - FFCellsKit (0.1.0)
+
+DEPENDENCIES:
+  - FFCellsKit (from `../`)
+
+EXTERNAL SOURCES:
+  FFCellsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFCellsKit: d1616e882ea84bd4fb72f53f4254577508229461
+
+PODFILE CHECKSUM: 880ad0b83751657e2d78e89af984ac2385c093ba
+
+COCOAPODS: 1.6.0
